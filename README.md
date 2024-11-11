@@ -1,6 +1,6 @@
-# GUNix
+# GUNix-Windows
 
-GUNix is a mico-os that uses terminal.
+GUNix-Windows is a mico-os that uses terminal.(But On Windows)
 
 
 ## Requirements
@@ -13,7 +13,7 @@ Before starting, ensure you have the following installed:
 - Windows
 ## Installation
 
-Follow these steps to install and set up GUNix:
+Follow these steps to install and set up GUNix-Windows:
 
 1. **Check if Git is installed**  
    Run the following command to ensure you have Git installed:
@@ -21,11 +21,11 @@ Follow these steps to install and set up GUNix:
    git --version
 2. ***Clone Repository**  
    ```bash
-   git clone https://github.com/murSer12/GUNix.git
+   git clone https://github.com/murSer12/GUNix-Windows.git
 2. **Go to Project**  
    Run the following command to ensure you have Git installed:
    ```bash
-   cd GUNix
+   cd GUNix-Windows
 3. **Building and Load**  
    Run the following command to ensure you have Git installed:
    ```bash
