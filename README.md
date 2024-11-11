@@ -10,7 +10,7 @@ Before starting, ensure you have the following installed:
 - Git
 - CMake
 - Make
-- Linux
+- Windows
 ## Installation
 
 Follow these steps to install and set up GUNix:
